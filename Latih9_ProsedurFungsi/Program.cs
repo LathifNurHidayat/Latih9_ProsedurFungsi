@@ -8,6 +8,10 @@
             Console.WriteLine("Sekarang  :"+date );
 
         }
+           static void main()
+           {
+               TampilkanWaktu();
+           }
        
 
         static int Kali(int a, int b)
